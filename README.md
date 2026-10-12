@@ -18,7 +18,7 @@ I’m Nicholas, an engineer and software builder based in Canberra. I work acros
 
 My work ranges from a bushfire suppression prototype proven in drop tests to telepresence robot diagnostics, interactive engineering models, and a live daily puzzle game. I document what was tested, what was simulated, and what remains unknown.
 
-### Available now for graduate or junior roles. ###
+#### Available now for graduate or junior roles. ####
 
 ## Selected work
 
