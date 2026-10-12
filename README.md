@@ -16,7 +16,7 @@
 
 I’m Nicholas, an engineer and software builder based in Canberra. I work across renewable energy, physical prototypes, and software, with a focus on clear requirements and results that can be checked.
 
-My work ranges from a drop-tested bushfire-suppression prototype to telepresence robot diagnostics, interactive engineering models, and a live daily puzzle game. I document what was tested, what was simulated, and what remains unknown.
+My work ranges from a drop tested bushfire-suppression prototype to telepresence robot diagnostics, interactive engineering models, and a live daily puzzle game. I document what was tested, what was simulated, and what remains unknown.
 
 ## Selected work
 
