@@ -42,7 +42,7 @@ Available now for graduate or junior roles.
 
 **Software:** Python · TypeScript · React · FastAPI · SQL · Docker · scikit-learn · Git
 
-**AI:** Local LLMs (Ollama, Open WebUI) · retrieval augmented generation · model evaluation
+**AI:** Local LLMs (Ollama, Open WebUI, omlx) · Tailscale home AI Setup · retrieval augmented generation · model evaluation
 
 **Engineering:** Requirements · Trade studies · Test plans · KiCad · CAD · 3D printing
 
