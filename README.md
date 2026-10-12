@@ -25,7 +25,7 @@ My work ranges from a bushfire suppression prototype proven in drop tests to tel
 | Project | What I built or contributed | Evidence |
 | :--- | :--- | :--- |
 | **[Decision Lab](https://guinerve.github.io/work/decision-lab)** | Interactive engineering studies that separate AI advice from operator authority and tested interlocks. | Interactive models; invariant tests on two models. |
-| **[Calibration Atlas](https://github.com/Guinerve/calibration-atlas)** | A reproducible study of how well 11,881 Polymarket prices forecast, with a Bayesian hierarchical model and a backtest that exposed my own lookahead bug. | **[Interactive explorer](https://guinerve.github.io/calibration-atlas/)**; 68 tests in CI. |
+| **[Calibration Atlas](https://github.com/Guinerve/calibration-atlas)** | A reproducible study of how well 11,881 Polymarket prices forecast, with a Bayesian hierarchical model and a backtest that exposed my own lookahead bug. | **[Interactive explorer](https://guinerve.github.io/calibration-atlas/)**; 73 tests in CI. |
 | **[Quiet Signal](https://github.com/Guinerve/quiet-signal)** | A Python scoring API, a review queue, and hash linked audit receipts for generated device summaries. | Runnable code and tests. Synthetic data only. |
 | **[IQdle](https://guinerve.github.io/work/iqdle)** | A daily visual puzzle game, with response data for every answer and an item analysis pipeline. | **[Play the live game](https://iqdle.pages.dev/)**. |
 | **[Bushfire suppression capstone](https://guinerve.github.io/work/bushfire-suppression-capstone)** | Led a team of five through design, prototyping, and drop tests. | Physical prototype; all six selected performance measures met. |
