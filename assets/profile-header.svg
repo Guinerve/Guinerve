@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title description">
+  <title id="title">Nicholas Jordan</title>
+  <desc id="description">Systems engineering, renewable energy and software. From requirements to a tested result. A dark technical drawing with mint signal lines and gold detail.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121e26"/>
+      <stop offset="1" stop-color="#192e35"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#91b8ba" stroke-opacity=".075"/>
+    </pattern>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8ed9c2" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#8ed9c2"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1280" height="340" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="340" fill="url(#background)"/>
+    <rect x="760" width="520" height="340" fill="url(#grid)"/>
+    <path d="M760 0V340" stroke="#a6cfca" stroke-opacity=".1"/>
+    <rect x="64" y="51" width="8" height="8" rx="2" fill="#8ed9c2"/>
+    <text x="87" y="63" fill="#a9c0c5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="2.4">GUINERVE / CANBERRA, AUSTRALIA</text>
+    <text x="60" y="145" fill="#f4f1e8" font-family="Georgia, 'Times New Roman', serif" font-size="74" letter-spacing="-2">Nicholas Jordan</text>
+    <text x="64" y="192" fill="#cfdfde" font-family="Arial, Helvetica, sans-serif" font-size="24">Systems engineering · Renewable energy · Software</text>
+    <path d="M64 230H112" stroke="#d7b77b" stroke-width="2"/>
+    <text x="64" y="267" fill="#9fb8bb" font-family="Arial, Helvetica, sans-serif" font-size="21">From requirements to a tested result.</text>
+    <g fill="none">
+      <circle cx="1032" cy="170" r="124" stroke="#a6cfca" stroke-opacity=".13"/>
+      <circle cx="1032" cy="170" r="92" stroke="#a6cfca" stroke-opacity=".09" stroke-dasharray="3 9"/>
+      <path d="M824 170H883L907 146L931 194L955 122L979 218L1003 146L1027 170H1080" stroke="url(#signal)" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M855 93H955L987 61H1126V125H1192" stroke="#8ed9c2" stroke-opacity=".35" stroke-width="1.5"/>
+      <path d="M870 251H937L969 283H1126V215H1192" stroke="#8ed9c2" stroke-opacity=".35" stroke-width="1.5"/>
+      <rect x="1080" y="145" width="50" height="50" rx="6" stroke="#d7b77b" stroke-width="1.5"/>
+      <rect x="1092" y="157" width="26" height="26" rx="2" stroke="#d7b77b" stroke-opacity=".45"/>
+      <path d="M1130 170H1216M1105 145V125M1105 195V215" stroke="#d7b77b" stroke-opacity=".6" stroke-width="1.5"/>
+      <path d="M805 44H821M813 36V52M1220 288H1236M1228 280V296" stroke="#a9c0c5" stroke-opacity=".5"/>
+    </g>
+    <g fill="#8ed9c2">
+      <circle cx="824" cy="170" r="4"/>
+      <circle cx="855" cy="93" r="3"/>
+      <circle cx="870" cy="251" r="3"/>
+      <circle cx="1192" cy="125" r="3"/>
+      <circle cx="1192" cy="215" r="3"/>
+    </g>
+    <circle cx="1216" cy="170" r="4" fill="#d7b77b"/>
+    <rect x=".5" y=".5" width="1279" height="339" rx="17.5" fill="none" stroke="#94b3ba" stroke-opacity=".18"/>
+  </g>
+</svg>
