@@ -18,7 +18,7 @@ I'm Nicholas, an engineer and software builder in Canberra. I work on renewable 
 
 Most of my projects start with one question. How far does grid frequency fall when a big generator trips? Do prediction market prices mean what they say? I build the smallest thing that answers it, test it against real data, and write down where it stops working.
 
-**Available now for graduate or junior roles.**
+**Graduate Engineer at Brooks Marchant from 9 November 2026, designing switchboards. Open to graduate engineering and software roles.**
 
 ## Selected work
 
@@ -29,6 +29,7 @@ Most of my projects start with one question. How far does grid frequency fall wh
 | **[grid-clock](https://github.com/Guinerve/grid-clock)** | A tool that lines up audio recordings in time from the hum of the power grid. | Tested on 130 real phone clips. 0 false matches in 6,598 pairs. |
 | **[Bushfire suppression capstone](https://guinerve.github.io/work/bushfire-suppression-capstone)** | I led a team of five through design, prototyping and drop tests. | Physical prototype. All six selected performance measures met. |
 | **[IQdle](https://guinerve.github.io/work/iqdle)** | A daily visual puzzle game, with response data for every answer and an item analysis pipeline. | **[Play the live game](https://iqdle.pages.dev/)**. |
+| **[Pensum](https://github.com/Guinerve/pensum-releases/releases/latest)** | A desktop worklog with typed and voice notes, a SQLite time ledger and local AI that proposes project splits for review. | **v0.1.3 downloads for macOS and Windows.** Early prototype; unsigned installers. Source is private. |
 | **[Decision Lab](https://guinerve.github.io/work/decision-lab)** | Interactive engineering studies that keep AI advice apart from operator authority and tested interlocks. | Interactive models. Invariant tests on two models. |
 
 ## Open source
